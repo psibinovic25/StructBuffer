@@ -1,0 +1,14 @@
+D:\Razvoj\NaucniRadovi\StructBuffer\StructBuf\StructBuf\obj\Debug\net8.0\StructBuf.GeneratedMSBuildEditorConfig.editorconfig
+D:\Razvoj\NaucniRadovi\StructBuffer\StructBuf\StructBuf\obj\Debug\net8.0\StructBuf.AssemblyInfoInputs.cache
+D:\Razvoj\NaucniRadovi\StructBuffer\StructBuf\StructBuf\obj\Debug\net8.0\StructBuf.AssemblyInfo.cs
+D:\Razvoj\NaucniRadovi\StructBuffer\StructBuf\StructBuf\obj\Debug\net8.0\StructBuf.csproj.CoreCompileInputs.cache
+D:\Razvoj\NaucniRadovi\StructBuffer\StructBuf\StructBuf\bin\Debug\net8.0\StructBuf.exe
+D:\Razvoj\NaucniRadovi\StructBuffer\StructBuf\StructBuf\bin\Debug\net8.0\StructBuf.deps.json
+D:\Razvoj\NaucniRadovi\StructBuffer\StructBuf\StructBuf\bin\Debug\net8.0\StructBuf.runtimeconfig.json
+D:\Razvoj\NaucniRadovi\StructBuffer\StructBuf\StructBuf\bin\Debug\net8.0\StructBuf.dll
+D:\Razvoj\NaucniRadovi\StructBuffer\StructBuf\StructBuf\bin\Debug\net8.0\StructBuf.pdb
+D:\Razvoj\NaucniRadovi\StructBuffer\StructBuf\StructBuf\obj\Debug\net8.0\StructBuf.dll
+D:\Razvoj\NaucniRadovi\StructBuffer\StructBuf\StructBuf\obj\Debug\net8.0\refint\StructBuf.dll
+D:\Razvoj\NaucniRadovi\StructBuffer\StructBuf\StructBuf\obj\Debug\net8.0\StructBuf.pdb
+D:\Razvoj\NaucniRadovi\StructBuffer\StructBuf\StructBuf\obj\Debug\net8.0\StructBuf.genruntimeconfig.cache
+D:\Razvoj\NaucniRadovi\StructBuffer\StructBuf\StructBuf\obj\Debug\net8.0\ref\StructBuf.dll
